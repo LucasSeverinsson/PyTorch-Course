@@ -12,7 +12,7 @@
 
 By the end of the week, you should be able to:
 
-- [ ] Explain scalar, vector, matrix, tensor, axis, shape, rank/order, dtype, and device.
+- [+] Explain scalar, vector, matrix, tensor, axis, shape, rank/order, dtype, and device.
 - [ ] Predict the shapes resulting from indexing, transposes, reshapes, reductions, and broadcasting.
 - [ ] Explain and use `*`, `@`, `sum`, `mean`, and `keepdim`.
 - [ ] Distinguish a view, a copy, and a non-contiguous tensor.
