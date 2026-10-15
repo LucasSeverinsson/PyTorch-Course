@@ -10,6 +10,10 @@
 - Longer-term motivation: Be prepared for research-oriented ML and potential radar/sensor-signal applications at Acconeer AB. Do not presume that the eventual thesis topic is known.
 - Keep this course **separate** from the credit-default project. Use synthetic data, standard vision datasets, and signal-processing datasets instead.
 
+## Reading and source-link policy for weekly lessons
+
+Each week’s Markdown lesson must provide **topic-matched reading links directly beneath every exercise section heading**, not solely in an end-of-document references section. Include the official PyTorch documentation/tutorial page and an appropriate LearnPyTorch.io chapter whenever one exists. Verify links and topic matches before publishing the Markdown. For Week 1, use https://docs.pytorch.org/tutorials/beginner/basics/tensorqs_tutorial.html (the valid basics tutorial) and https://www.learnpytorch.io/00_pytorch_fundamentals/ alongside more specific API references. The lesson remains self-contained, so external readings support—not replace—the teaching text.
+
 ## 2. Teaching instructions for future conversations
 
 1. Teach one concept at a time: mathematical intuition → equations → small worked example → code → exercises.
@@ -85,7 +89,7 @@ By the end, the learner should be able to:
 
 **Completion criteria:** Can predict tensor shapes, write vectorized computations, and verify against reference implementations.
 
-**Reference:** https://docs.pytorch.org/tutorials/beginner/basics/tensor_tutorial.html
+**Reference:** https://docs.pytorch.org/tutorials/beginner/basics/tensorqs_tutorial.html
 
 ## Week 2 — Automatic differentiation and computational graphs
 
